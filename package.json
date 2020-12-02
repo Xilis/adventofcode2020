@@ -1,6 +1,6 @@
 {
   "name": "adventofcode2020",
-  "version": "2.1.16",
+  "version": "1.0.0",
   "private": true,
   "description": "www.adventofcode.com",
   "main": "src/index.ts",
